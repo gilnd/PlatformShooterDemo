@@ -1,0 +1,2 @@
+/// @description CanShot
+canShot = true;

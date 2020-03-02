@@ -1,0 +1,1 @@
+instance_create_layer(get_bbox_x(oPlayer) + 6, get_center_y(oPlayer), "Main", oAmmo);
