@@ -1,4 +1,4 @@
-# :rocket: PlatformDemo
+# :rocket: Platform Shooter Demo
 
 > This project is a Demo made with [GameMaker Studio 2](https://www.yoyogames.com/).
 
